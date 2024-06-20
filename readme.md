@@ -1,6 +1,6 @@
 <p>
   
-  Technologies used:
+  
   <img alt="git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
   <img alt="wireguard" src="https://img.shields.io/badge/-Wireguard-informational?style=for-the-badge&logo=wireguard&logoColor=white&color=88171A" />
   <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=000000" />
