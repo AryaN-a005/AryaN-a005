@@ -16,12 +16,4 @@
   <br />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
-<img alt="JS" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
-
-<img alt="Node.js" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
-
-<img alt="React" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
-
-<img alt="TypeScript" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
-
-<img alt="MongoDB" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" /></p>
+</p>
