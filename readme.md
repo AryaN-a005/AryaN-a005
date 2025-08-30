@@ -1,6 +1,4 @@
 <p>
-  
-  
   <img alt="git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
   <img alt="wireguard" src="https://img.shields.io/badge/-Wireguard-informational?style=for-the-badge&logo=wireguard&logoColor=white&color=88171A" />
   <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=000000" />
@@ -11,13 +9,18 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=7F52FF" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" />
 
   <br />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=green&color=47A248" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=blue&color=47A248" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" />
+  <br />
 
-
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-informational?style=for-the-badge&logo=express&logoColor=white&color=000000" />
+  <img alt="React" src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" />
+  <img alt="AI" src="https://img.shields.io/badge/-AI-informational?style=for-the-badge&logo=openai&logoColor=white&color=412991" />
 </p>
