@@ -16,4 +16,8 @@
   <br />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=green&color=47A248" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=blue&color=47A248" />
+
+
 </p>
