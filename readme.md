@@ -1,4 +1,4 @@
-<div align="center">
+7<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=220&section=header&text=ARYAN.A005&fontSize=60&fontColor=FFFFFF&fontAlignY=42&desc=BACKEND%20%2F%20CLOUD%20%2F%20DEVOPS&descAlignY=62&descSize=16&descColor=888888"/>
 
@@ -312,44 +312,35 @@ Distributed Systems
 
 ---
 
-# GITHUB
+
+## `GITHUB`
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=AryaN-a005&show_icons=true&hide_border=true&bg_color=0B0B0B&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF&include_all_commits=true"
-/>
+<a href="https://github.com/AryaN-a005">
 
 <img
+src="https://github-stats-extended.vercel.app/api?username=AryaN-a005&theme=dark&hide_border=true&bg_color=0B0B0B&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF"
 width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaN-a005&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=FFFFFF&text_color=888888&langs_count=8"
 />
+
+</a>
+
+<a href="https://github.com/AryaN-a005">
+
+<img
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=AryaN-a005&layout=compact&theme=dark&hide_border=true&bg_color=0B0B0B&title_color=FFFFFF&text_color=888888&langs_count=8"
+width="49%"
+/>
+
+</a>
 
 <br><br>
 
 <img
-width="70%"
 src="https://streak-stats.demolab.com?user=AryaN-a005&hide_border=true&background=0B0B0B&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
+width="70%"
 />
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-```text
-build · understand · automate · repeat
-```
-
-<br>
-
-<a href="https://github.com/AryaN-a005">
-ARYAN.A005
-</a>
 
 </div>
 
