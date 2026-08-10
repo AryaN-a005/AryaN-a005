@@ -126,13 +126,18 @@ alt="Hey Daddy (Daddy's Home) — Usher"
 
 `NOW PLAYING`
 
+<b>Usher</b>
+
 <br><br>
 
-<a href="https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3">
+<code>Raymond v. Raymond</code>
+
+<br><br>
+
+<a href="https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3?si=0e09730033ee4275">
 
 <img
-src="https://img.shields.io/badge/OPEN%20IN%20SPOTIFY-0d1117?style=flat-square&logo=spotify&logoColor=white"
-/>
+src="https://img.shields.io/badge/▶%20LISTEN%20ON%20SPOTIFY-111111?style=for-the-badge&logo=spotify&logoColor=1DB954">
 
 </a>
 
