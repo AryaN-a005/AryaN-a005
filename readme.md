@@ -84,16 +84,6 @@ Self-hosted file sharing built around a Raspberry Pi.
 
 <td width="50%">
 
-### CAPTURECRAFT
-
-A lightweight screenshot and image capture utility.
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=react,ts" />
-
-`Frontend` · `TypeScript`
-
 </td>
 </tr>
 </table>
@@ -102,18 +92,20 @@ A lightweight screenshot and image capture utility.
 
 # NOW PLAYING
 
+## `NOW PLAYING`
+
 <table>
 <tr>
 
 <td width="150" align="center">
 
-<a href="YOUR_SONG_URL">
+<a href="https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3">
 
 <img
-src="YOUR_ALBUM_ART_URL"
+src="https://i.scdn.co/image/ab67616d0000b2734c5f8b0c8f4b3c6d8a4d7e5f"
 width="130"
 height="130"
-alt="Album artwork"
+alt="Hey Daddy (Daddy's Home) — Usher"
 />
 
 </a>
@@ -122,20 +114,26 @@ alt="Album artwork"
 
 <td>
 
-### SONG TITLE
+### `HEY DADDY (DADDY'S HOME)`
 
-`ARTIST NAME`
+`USHER`
 
 <br>
 
-`━━━━━━━━━━━━━━●━━━━━━━━`
+`━━━━━━━━━━━━━━━━●━━━━━━━━`
 
-`02:41` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `04:03`
+<br>
+
+`NOW PLAYING`
 
 <br><br>
 
-<a href="YOUR_SONG_URL">
-<img src="https://img.shields.io/badge/Listen-111111?style=flat-square&logo=spotify&logoColor=white"/>
+<a href="https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3">
+
+<img
+src="https://img.shields.io/badge/OPEN%20IN%20SPOTIFY-0d1117?style=flat-square&logo=spotify&logoColor=white"
+/>
+
 </a>
 
 </td>
