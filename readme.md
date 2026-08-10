@@ -92,20 +92,19 @@ Self-hosted file sharing built around a Raspberry Pi.
 
 # NOW PLAYING
 
-## `NOW PLAYING`
+## NOW PLAYING
 
 <table>
 <tr>
 
-<td width="150" align="center">
+<td width="220" align="center">
 
-<a href="https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3">
+<a href="https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3?si=0e09730033ee4275">
 
 <img
-src="https://i.scdn.co/image/ab67616d0000b2734c5f8b0c8f4b3c6d8a4d7e5f"
-width="130"
-height="130"
-alt="Hey Daddy (Daddy's Home) — Usher"
+src="https://i1.sndcdn.com/artworks-jpozwT2zhOBb-0-t1080x1080.jpg"
+width="190"
+alt="Hey Daddy (Daddy's Home) - Usher"
 />
 
 </a>
@@ -114,19 +113,9 @@ alt="Hey Daddy (Daddy's Home) — Usher"
 
 <td>
 
-### `HEY DADDY (DADDY'S HOME)`
+<h2>HEY DADDY (DADDY'S HOME)</h2>
 
-`USHER`
-
-<br>
-
-`━━━━━━━━━━━━━━━━●━━━━━━━━`
-
-<br>
-
-`NOW PLAYING`
-
-<b>Usher</b>
+<b>USHER</b>
 
 <br><br>
 
@@ -134,10 +123,16 @@ alt="Hey Daddy (Daddy's Home) — Usher"
 
 <br><br>
 
+<code>R&B</code> · <code>2009</code>
+
+<br><br>
+
 <a href="https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3?si=0e09730033ee4275">
 
 <img
-src="https://img.shields.io/badge/▶%20LISTEN%20ON%20SPOTIFY-111111?style=for-the-badge&logo=spotify&logoColor=1DB954">
+src="https://img.shields.io/badge/▶_LISTEN_ON_SPOTIFY-111111?style=for-the-badge&logo=spotify&logoColor=1DB954"
+alt="Listen on Spotify"
+/>
 
 </a>
 
@@ -145,8 +140,6 @@ src="https://img.shields.io/badge/▶%20LISTEN%20ON%20SPOTIFY-111111?style=for-t
 
 </tr>
 </table>
-
----
 
 # STACK
 
