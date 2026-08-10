@@ -1,77 +1,373 @@
-<details>
-  <summary><b>🛠 Tools</b></summary>
-  <p>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
-    <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=000000" />
-    <img alt="Wireguard" src="https://img.shields.io/badge/-Wireguard-informational?style=for-the-badge&logo=wireguard&logoColor=white&color=88171A" />
-  </p>
-</details>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=220&section=header&text=Aryan%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Cloud%20%7C%20DevOps%20%7C%20Platform%20Engineering&descAlignY=58&descSize=18" />
+
+<br/>
+
+<a href="https://github.com/AryaN-a005">
+<img src="https://img.shields.io/badge/GitHub-AryaN--a005-181717?style=for-the-badge&logo=github" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+backend+systems+%F0%9F%9A%80;Exploring+cloud-native+infrastructure+%E2%98%81%EF%B8%8F;Automating+everything+I+can+%E2%9A%99%EF%B8%8F;Learning+Kubernetes+%7C+Terraform+%7C+GitOps;Turning+ideas+into+production-ready+systems" />
+
+</div>
+
+---
+
+## `$ whoami`
+
+```yaml
+name: Aryan Singh
+role: Software Engineer
+focus:
+  - Backend Engineering
+  - Cloud Computing
+  - DevOps
+  - Infrastructure
+  - Platform Engineering
+
+currently_building:
+  - ForgeOps
+
+currently_exploring:
+  - Kubernetes
+  - Terraform
+  - GitOps
+  - Distributed Systems
+  - System Design
+
+mindset:
+  - Build
+  - Understand
+  - Automate
+  - Ship
+```
+
+> I like building things that solve real problems — from backend APIs and
+> intelligent applications to cloud infrastructure and developer platforms.
+
+---
+
+## 🧭 My Engineering Path
+
+```text
+             ┌─────────────────┐
+             │   APPLICATION   │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │     BACKEND     │
+             │ APIs · Auth · DB│
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │      CLOUD      │
+             │ AWS · Networking│
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │     DEVOPS      │
+             │ CI/CD · Docker  │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │   KUBERNETES    │
+             │ Helm · GitOps    │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │    PLATFORM     │
+             │ Developer Tools │
+             └─────────────────┘
+```
+
+---
+
+# 🚀 What I'm Building
+
+### ⚙️ ForgeOps
+
+> **From `git push` to production.**
+
+A developer platform focused on simplifying application builds,
+deployments and infrastructure.
+
+```text
+Developer
+    │
+    │ git push
+    ▼
+┌─────────────┐
+│   ForgeOps  │
+└──────┬──────┘
+       │
+       ├──────► Build
+       │
+       ├──────► Containerize
+       │
+       ├──────► Deploy
+       │
+       ▼
+┌─────────────┐
+│ Kubernetes  │
+└──────┬──────┘
+       │
+       ├──────► Helm
+       ├──────► ArgoCD
+       └──────► GitOps
+              │
+              ▼
+       ┌──────────────┐
+       │ Observability│
+       │ Prometheus   │
+       │ Grafana      │
+       └──────────────┘
+```
+
+**Exploring**
+
+`Docker` · `Kubernetes` · `Helm` · `Terraform` · `GitHub Actions` · `ArgoCD` · `GitOps`
+
+---
+
+### 🧠 Curate
+
+> **A secondary brain for the internet.**
+
+A personal knowledge platform for collecting, organizing and understanding
+content from across the web.
+
+**Features**
+
+- 🔗 Save links, tweets and YouTube videos
+- 🧠 Semantic search using embeddings
+- 🤖 AI-powered summarization
+- 📚 Collections and knowledge organization
+- 🔐 JWT authentication
+- ⚡ TypeScript-first backend
+
+**Stack**
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Google AI`
+
+[→ View Curate](https://github.com/AryaN-a005/curate-v1)
+
+---
+
+### 🥧 Pi-Share
+
+> **Self-hosted file sharing, built for a Raspberry Pi.**
+
+A lightweight self-hosted platform using containers and reverse proxying.
+
+`Raspberry Pi` · `Docker` · `Nginx` · `SQLite`
+
+---
+
+# 🛠️ Technical Arsenal
 
 <details>
-  <summary><b>💻 Languages</b></summary>
-  <p>
-    <img alt="Golang" src="https://img.shields.io/badge/-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=openjdk&logoColor=black&color=FFFFFF" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=7F52FF" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
-    <img alt="C" src="https://img.shields.io/badge/-C-informational?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC" />
-    <img alt="C++" src="https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C" />
-    <img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" />
-  </p>
+<summary><b>⚡ Languages</b></summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,typescript,javascript,python,java" />
+
 </details>
 
-<details>
-  <summary><b>⚡ Frameworks & Libraries</b></summary>
-  <p>
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933" />
-    <img alt="Express" src="https://img.shields.io/badge/-Express-informational?style=for-the-badge&logo=express&logoColor=white&color=000000" />
-    <img alt="React" src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" />
-    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000" />
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" />
-    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-informational?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F" />
-  </p>
-</details>
+<br/>
 
 <details>
-  <summary><b>🗄 Databases</b></summary>
-  <p>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
-    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=DC382D" />
-    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28" />
-  </p>
+<summary><b>🌐 Backend & Web</b></summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,spring" />
+
+<br/><br/>
+
+`REST APIs` · `JWT` · `OAuth` · `Prisma` · `Mongoose`
+
 </details>
 
-<details>
-  <summary><b>☁ Cloud & DevOps</b></summary>
-  <p>
-    <img alt="AWS" src="https://img.shields.io/badge/-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=232F3E" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4" />
-    <img alt="Azure" src="https://img.shields.io/badge/-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5" />
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-informational?style=for-the-badge&logo=githubactions&logoColor=white&color=2088FF" />
-    <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white&color=D24939" />
-  </p>
-</details>
+<br/>
 
 <details>
-  <summary><b>🤖 AI / ML</b></summary>
-  <p>
-    <img alt="AI" src="https://img.shields.io/badge/-AI-informational?style=for-the-badge&logo=openai&logoColor=white&color=412991" />
-    <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" />
-    <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C" />
-    <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-informational?style=for-the-badge&logo=huggingface&logoColor=black&color=FFD21E" />
-  </p>
+<summary><b>🗄️ Databases</b></summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,firebase" />
+
 </details>
 
+<br/>
+
 <details>
-  <summary><b>🎨 Design</b></summary>
-  <p>
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E" />
-  </p>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,helm,nginx" />
+
+<br/><br/>
+
+`AWS EC2` · `S3` · `IAM` · `VPC` · `Elastic Beanstalk`
+
 </details>
+
+<br/>
+
+<details>
+<summary><b>🔄 DevOps & Automation</b></summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=githubactions,git,argo,prometheus,grafana,ansible" />
+
+<br/><br/>
+
+`CI/CD` · `GitOps` · `Infrastructure as Code` · `Containerization`
+
+</details>
+
+---
+
+# 🧩 Things I Like Understanding
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  How does an HTTP request actually reach a server?    │
+│                                                       │
+│  How should a backend scale under heavy traffic?      │
+│                                                       │
+│  How do containers become production workloads?       │
+│                                                       │
+│  How does Kubernetes actually orchestrate them?       │
+│                                                       │
+│  How can infrastructure become reproducible?          │
+│                                                       │
+│  How can developers ship software with less friction? │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AryaN-a005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaN-a005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AryaN-a005&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Kubernetes
+├── Workloads
+├── Networking
+├── Storage
+└── Security
+
+Terraform
+├── Providers
+├── Modules
+├── State
+└── Remote Infrastructure
+
+DevOps
+├── CI/CD
+├── GitOps
+├── Observability
+└── Automation
+
+System Design
+├── Scalability
+├── Reliability
+├── Caching
+└── Distributed Systems
+```
+
+---
+
+# 📈 2026 — The Road Ahead
+
+```text
+████████████████████████████████████████████████
+
+Backend Engineering       ████████████████████  ✓
+Cloud Fundamentals        ████████████████████  ✓
+Docker                    ████████████████████  ✓
+CI/CD                     ██████████████████░░  ✓
+Terraform                 █████████████████░░░  ✓
+Kubernetes                ████████████░░░░░░░░  →
+GitOps                    ██████████░░░░░░░░░░  →
+System Design             ████████░░░░░░░░░░░░  →
+Distributed Systems       ██████░░░░░░░░░░░░░░  →
+Platform Engineering      █████░░░░░░░░░░░░░░░  →
+
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+<div align="center">
+
+### **Don't just use the tool. Understand the system behind it.**
+
+<br/>
+
+`Build` → `Break` → `Understand` → `Automate` → `Ship`
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in discussing
+
+**Backend Engineering · Cloud · DevOps · Infrastructure · Open Source**
+
+<br/>
+
+<a href="https://github.com/AryaN-a005">
+<img src="https://img.shields.io/badge/GitHub-AryaN--a005-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+**Build → Learn → Automate → Repeat**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:0f172a&height=100&section=footer" />
