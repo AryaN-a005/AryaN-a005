@@ -1,4 +1,4 @@
-7<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=220&section=header&text=ARYAN.A005&fontSize=60&fontColor=FFFFFF&fontAlignY=42&desc=BACKEND%20%2F%20CLOUD%20%2F%20DEVOPS&descAlignY=62&descSize=16&descColor=888888"/>
 
